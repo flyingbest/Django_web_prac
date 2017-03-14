@@ -1,0 +1,8 @@
+li a {
+	color: green;
+}
+
+body {
+	background: white url("images/django.gif") no-repeat right bottom;
+	/* background: white url("images/django-logo-negative.png") no-repeat left bottom; */
+}
